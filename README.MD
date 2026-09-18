@@ -98,7 +98,7 @@ dotnet run
 
 ```bash
 dotnet publish -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true
-
+```
 ---
 
 ## 🧰 Используемые библиотеки
